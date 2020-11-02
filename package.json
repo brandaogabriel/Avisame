@@ -1,0 +1,15 @@
+{
+  "name": "avisa",
+  "version": "1.0.0",
+  "description": "Uma simples aplicaçao para avisar quando as notas forem atualizadas",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Brandao",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.4.14",
+    "scrape-it": "^5.2.4"
+  }
+}
